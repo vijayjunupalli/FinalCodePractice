@@ -6,6 +6,6 @@ spring:
     password: 6622Abc@123
   jpa:
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
   application:
     name: finalcode
